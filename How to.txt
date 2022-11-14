@@ -1,0 +1,7 @@
+Create a new bookmark,
+
+Name it what you want
+
+In the url copy the code and paste into URL
+
+Only tested in chrome
